@@ -1,3 +1,9 @@
+![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_01_10 PM](https://user-images.githubusercontent.com/56348397/234650534-ffcf3264-626a-4497-81f7-628b301fbd11.png)
+![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_01_19 PM](https://user-images.githubusercontent.com/56348397/234650583-20f19065-c781-4bd2-bd0d-9dc5209472ea.png)
+![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_04_30 PM](https://user-images.githubusercontent.com/56348397/234650614-3a50162a-edcc-4b76-a39c-9031d23c1f77.png)
+![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_05_06 PM](https://user-images.githubusercontent.com/56348397/234650646-53c0f1da-0374-4e1d-9503-e4e9d764bf73.png)
+![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_05_13 PM](https://user-images.githubusercontent.com/56348397/234650663-88ae5512-6ca6-4612-9e1b-e39df876de71.png)
+
 Google capstone project report
 Delight Ogwor
 Please note that although this project was done using, power query for cleaning and organizing and power bi for analysis and visualization.
