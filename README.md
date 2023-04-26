@@ -4,8 +4,8 @@
 ![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_05_06 PM](https://user-images.githubusercontent.com/56348397/234650646-53c0f1da-0374-4e1d-9503-e4e9d764bf73.png)
 ![bikeshare project pdf and 5 more pages - Profile 1 - Microsoft​ Edge 4_26_2023 6_05_13 PM](https://user-images.githubusercontent.com/56348397/234650663-88ae5512-6ca6-4612-9e1b-e39df876de71.png)
 
-Google capstone project report
-Delight Ogwor
+#Google capstone project report
+#Delight Ogwor
 Please note that although this project was done using, power query for cleaning and organizing and power bi for analysis and visualization.
 Case Study: How Does a Bike-Share Navigate Speedy Success?
 The purpose of this document is to consolidate downloaded Divvy data into a single data frame and then conduct a simple analysis to help answer the key question: “In what ways do members and casual riders use Divvy bikes differently?” 
