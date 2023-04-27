@@ -18,11 +18,13 @@ This exploratory analysis case study is towards the Capstone project requirement
 - Ask effective questions
 - Define the scope of the analysis 
 - Define what success looks like 
+-
 **Prepare** 
 - Verify data’s integrity 
 - Check data credibility and reliability
 - Check data types 
 - Merge datasets
+- 
 - **Process**
  - Clean, Remove, and Transform data
  - Document cleaning processes and results
@@ -30,24 +32,31 @@ This exploratory analysis case study is towards the Capstone project requirement
 - Identify patterns 
 - Draw conclusions 
 - Make predictions
+- 
 **Share** 
 - Create effective visuals
 - Create a story for data 
 - Share insights with stakeholders
-- **Act** 
+- 
+ **Act** 
 - Give recommendations based on insights 
 - Solve problems 
 - Create something new
-- **The scenario:**  The marketing team needs to design marketing strategies aimed at converting casual riders into annual members. To do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ.
+- 
+**The scenario:**  The marketing team needs to design marketing strategies aimed at converting casual riders into annual members. To do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ.
+- 
 - **Stakeholders:**
  - Director of Marketing 
  - Cyclitic executive team
- - **Objective:** Hence, the objective of this analysis is to throw some light on how the two types of customers, annual members and casual riders use Cyclistic bike-share differently, based on a few parameters that can be calculated/ obtained from existing data.
- - **Deliverables:**
+ 
+ **Objective:** Hence, the objective of this analysis is to throw some light on how the two types of customers, annual members and casual riders use Cyclistic bike-share differently, based on a few parameters that can be calculated/ obtained from existing data.
+ 
+ **Deliverables:**
 - Insights on how annual members and casual riders use Cyclistic bikes differently
 - Provide effective visuals and relevant data to support insights 
 - Use insights to give three recommendations to convert casual riders to member riders
-- **Cleaning process:**
+
+**Cleaning process:**
 - I cleaned the data set with power query in power bi after I discovered the dataset was too large for excel. I loaded the folder containing the 12 datasets on the power query.
 - I started by deleting the ride id, longitude, and latitude as I figured they won’t be necessary.
 - Since the date column contained time, I extracted it so that I would be able to know the hours the trip started and the duration of each ride.
