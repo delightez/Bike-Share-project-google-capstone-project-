@@ -11,10 +11,11 @@ Case Study: How Does a Bike-Share Navigate Speedy Success?
 The purpose of this document is to consolidate downloaded Divvy data into a single data frame and then conduct a simple analysis to help answer the key question: “In what ways do members and casual riders use Divvy bikes differently?” 
 Introduction
 This exploratory analysis case study is towards the Capstone project requirement for Google Data Analytics Professional Certificate. The case study involves a bike-share company’s data on its customer’s trip details over 12 months (January 2022 - December 2022). The data has been made available by Motivate International Inc. under this license. The analysis will follow the 6 phases of the Data Analysis process: Ask, Prepare, Process, Analyze, and Act. A brief explanation of these processes:
-•Ask
-•Ask effective questions
-•Define the scope of the analysis 
-• Define what success looks like 
+
+**Ask**
+- Ask effective questions
+- Define the scope of the analysis 
+- Define what success looks like 
 Prepare 
 • Verify data’s integrity 
 • Check data credibility and reliability
