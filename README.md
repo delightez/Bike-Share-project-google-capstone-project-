@@ -24,27 +24,28 @@ This exploratory analysis case study is towards the Capstone project requirement
 - Check data credibility and reliability
 - Check data types 
 - Merge datasets
-- 
+
 - **Process**
  - Clean, Remove, and Transform data
  - Document cleaning processes and results
- - **Analyze** 
+ 
+ **Analyze** 
 - Identify patterns 
 - Draw conclusions 
 - Make predictions
-- 
+ 
 **Share** 
 - Create effective visuals
 - Create a story for data 
 - Share insights with stakeholders
-- 
+ 
  **Act** 
 - Give recommendations based on insights 
 - Solve problems 
 - Create something new
-- 
+
 **The scenario:**  The marketing team needs to design marketing strategies aimed at converting casual riders into annual members. To do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ.
-- 
+ 
 - **Stakeholders:**
  - Director of Marketing 
  - Cyclitic executive team
